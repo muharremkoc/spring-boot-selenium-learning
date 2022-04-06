@@ -38,5 +38,5 @@ If you using Intellij Terminal paste this command
 - If you using other platforms,
 cd "your project file" and paste command mvn clean  test -DdefaultSuiteFiles="src/test/resources/test-suit/Learning-test-suit.xml"
 
-## License
+
 [Muharrem Koç](https://github.com/muharremkoc)
